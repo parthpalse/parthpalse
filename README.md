@@ -48,28 +48,18 @@ I am a Full-Stack Engineer and B.Tech student (Honors in Quantum Computing & Gen
 
 ## 🚀 Featured Repositories
 
-<div align="center">
-  <a href="https://github.com/parthpalse/algoverse">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=parthpalse&repo=algoverse&theme=radical&show_icons=true" width="48%" />
-  </a>
-  <a href="https://github.com/parthpalse/clgbuddy-backend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=parthpalse&repo=clgbuddy-backend&theme=radical&show_icons=true" width="48%" />
-  </a>
-  <br/>
-  <a href="https://github.com/parthpalse/swazzer-football-academy">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=parthpalse&repo=swazzer-football-academy&theme=radical&show_icons=true" width="48%" />
-  </a>
-  <a href="https://github.com/parthpalse/car-dealership-management">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=parthpalse&repo=car-dealership-management&theme=radical&show_icons=true" width="48%" />
-  </a>
-</div>
+| Project | Description | Stack | Links |
+| :--- | :--- | :--- | :--- |
+| **AlgoVerse** | Animated BFS, DFS, and Warshall’s algorithm through a 3D graph engine on a secure MERN stack. | React, Node.js, Three.js | [GitHub](https://github.com/parthpalse/algoverse) |
+| **ClgBuddy** | Built a commute optimizer with real-time routing and a self-learning delay-prediction model. | React Native, Flask | [GitHub](https://github.com/parthpalse/clgbuddy-backend) |
+| **Swazzer Academy** | Delivered a 3D interactive academy site with WhatsApp-integrated booking for a freelance client. | JavaScript, Three.js | [GitHub](https://github.com/parthpalse/swazzer-football-academy) |
+| **Dealership System** | Streamlined showroom operations with dynamic listings, booking, and inventory control. | PHP, MySQL, Bootstrap | [GitHub](https://github.com/parthpalse/car-dealership-management) |
 
 ---
 
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parthpalse&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthpalse&layout=compact&theme=radical" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=parthpalse&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
