@@ -1,12 +1,12 @@
-﻿<div align="center">
+<div align="center">
   <h1 align="center">Parth Laxman Palse</h1>
   <p align="center">
     <i>Building AI pipelines, async backends, and interactive 3D web experiences.</i>
   </p>
   <p align="center">
-    <a href="https://parthfoliorita.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio"/></a>
-    <a href="https://linkedin.com/in/parthpalse" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="mailto:parth.palse@somaiya.edu" target="_blank"><img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+    <a href="https://parthfoliorita.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-252A34?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio"/></a>
+    <a href="https://linkedin.com/in/parthpalse" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="mailto:parth.palse@somaiya.edu" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   </p>
 </div>
 
@@ -25,35 +25,25 @@ I am a Full-Stack Engineer and B.Tech student (Honors in Quantum Computing & Gen
 ## 💻 Engineering Toolkit
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-111111?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=py,js,ts,php,java" />
   <br />
-  <img src="https://img.shields.io/badge/React.js-111111?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-111111?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-111111?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Three.js-111111?style=for-the-badge&logo=three.js&logoColor=white" />
   <br />
-  <img src="https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,flask,threejs" />
+  <br />
+  <br />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,docker,git" />
 </div>
 
 ---
 
 ## 🚀 Featured Repositories
 
-| Project | Description | Stack | Links |
+| 📂 Project | 📝 Description | 🛠️ Tech Stack | 🔗 Link |
 | :--- | :--- | :--- | :--- |
-| **AlgoVerse** | Animated BFS, DFS, and Warshall’s algorithm through a 3D graph engine on a secure MERN stack. | React, Node.js, Three.js | [GitHub](https://github.com/parthpalse/algoverse) |
-| **ClgBuddy** | Built a commute optimizer with real-time routing and a self-learning delay-prediction model. | React Native, Flask | [GitHub](https://github.com/parthpalse/clgbuddy-backend) |
-| **Swazzer Academy** | Delivered a 3D interactive academy site with WhatsApp-integrated booking for a freelance client. | JavaScript, Three.js | [GitHub](https://github.com/parthpalse/swazzer-football-academy) |
-| **Dealership System** | Streamlined showroom operations with dynamic listings, booking, and inventory control. | PHP, MySQL, Bootstrap | [GitHub](https://github.com/parthpalse/car-dealership-management) |
+| **[AlgoVerse](https://github.com/parthpalse/algoverse)** | Animated BFS, DFS, and Warshall’s algorithm through a 3D graph engine on a secure MERN stack. | <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square" /> <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=flat-square" /> <img src="https://img.shields.io/badge/Three.js-000000?logo=threedotjs&logoColor=white&style=flat-square" /> | [View Code ↗](https://github.com/parthpalse/algoverse) |
+| **[ClgBuddy](https://github.com/parthpalse/clgbuddy-backend)** | Built a commute optimizer with real-time routing and a self-learning delay-prediction model. | <img src="https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=black&style=flat-square" /> <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=flat-square" /> | [View Code ↗](https://github.com/parthpalse/clgbuddy-backend) |
+| **[Swazzer Academy](https://github.com/parthpalse/swazzer-football-academy)** | Delivered a 3D interactive academy site with WhatsApp-integrated booking for a freelance client. | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" /> <img src="https://img.shields.io/badge/Three.js-000000?logo=threedotjs&logoColor=white&style=flat-square" /> | [View Code ↗](https://github.com/parthpalse/swazzer-football-academy) |
+| **[Dealership System](https://github.com/parthpalse/car-dealership-management)** | Streamlined showroom operations with dynamic listings, booking, and inventory control. | <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=flat-square" /> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square" /> | [View Code ↗](https://github.com/parthpalse/car-dealership-management) |
 
 ---
 
