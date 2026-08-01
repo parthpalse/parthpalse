@@ -60,6 +60,6 @@ I am a Full-Stack Engineer and B.Tech student (Honors in Quantum Computing & Gen
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=parthpalse&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=parthpalse&theme=github-dark&hide_border=true&background=111111" alt="GitHub Streak" />
 </div>
 
